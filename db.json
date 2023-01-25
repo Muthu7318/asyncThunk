@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Perry Erdman",
+      "id": 2
+    },
+    {
+      "name": "Elaine Grant",
+      "id": 3
+    },
+    {
+      "name": "Mrs. Dominic Jerde",
+      "id": 4
+    },
+    {
+      "name": "Lynette Kuhlman",
+      "id": 5
+    },
+    {
+      "name": "Eugene Larkin",
+      "id": 6
+    },
+    {
+      "name": "Emma Gutmann",
+      "id": 7
+    },
+    {
+      "name": "Winston Fay III",
+      "id": 8
+    },
+    {
+      "name": "Tracy Huel",
+      "id": 9
+    },
+    {
+      "name": "Gordon Doyle",
+      "id": 10
+    },
+    {
+      "name": "Guadalupe Willms",
+      "id": 11
+    }
+  ],
+  "albums": [],
+  "photos": []
+}

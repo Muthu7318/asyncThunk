@@ -1,50 +1,51 @@
 {
   "users": [
     {
+      "name": "Muriel Hilpert",
+      "id": 18
+    },
+    {
+      "name": "Peggy VonRueden",
+      "id": 19
+    },
+    {
+      "name": "Audrey Lueilwitz Jr.",
+      "id": 20
+    },
+    {
+      "name": "Terri Weber",
+      "id": 21
+    },
+    {
+      "name": "Norma Prohaska",
+      "id": 22
+    },
+    {
+      "name": "Elaine Stamm",
+      "id": 23
+    }
+  ],
+  "albums": [
+    {
       "id": 1,
-      "name": "Myra"
+      "title": "Hiking trip",
+      "userId": 18
     },
     {
-      "name": "Perry Erdman",
-      "id": 2
+      "id": 2,
+      "title": "switmming trip",
+      "userId": 18
     },
     {
-      "name": "Elaine Grant",
+      "userId": 18,
+      "title": "Recycled Wooden Sausages",
       "id": 3
     },
     {
-      "name": "Mrs. Dominic Jerde",
+      "userId": 18,
+      "title": "Awesome Frozen Bacon",
       "id": 4
-    },
-    {
-      "name": "Lynette Kuhlman",
-      "id": 5
-    },
-    {
-      "name": "Eugene Larkin",
-      "id": 6
-    },
-    {
-      "name": "Emma Gutmann",
-      "id": 7
-    },
-    {
-      "name": "Winston Fay III",
-      "id": 8
-    },
-    {
-      "name": "Tracy Huel",
-      "id": 9
-    },
-    {
-      "name": "Gordon Doyle",
-      "id": 10
-    },
-    {
-      "name": "Guadalupe Willms",
-      "id": 11
     }
   ],
-  "albums": [],
   "photos": []
 }

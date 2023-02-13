@@ -13,39 +13,126 @@
       "id": 20
     },
     {
-      "name": "Terri Weber",
-      "id": 21
+      "name": "Mrs. Rita Zboncak",
+      "id": 24
     },
     {
-      "name": "Norma Prohaska",
-      "id": 22
-    },
-    {
-      "name": "Elaine Stamm",
-      "id": 23
+      "name": "Carol Berge",
+      "id": 25
     }
   ],
   "albums": [
     {
-      "id": 1,
-      "title": "Hiking trip",
-      "userId": 18
+      "userId": 20,
+      "title": "Sleek Frozen Sausages",
+      "id": 10
     },
     {
-      "id": 2,
-      "title": "switmming trip",
-      "userId": 18
+      "userId": 20,
+      "title": "Handcrafted Wooden Shoes",
+      "id": 11
+    },
+    {
+      "userId": 20,
+      "title": "Luxurious Concrete Chips",
+      "id": 12
     },
     {
       "userId": 18,
-      "title": "Recycled Wooden Sausages",
+      "title": "Oriental Metal Tuna",
+      "id": 13
+    },
+    {
+      "userId": 18,
+      "title": "Gorgeous Steel Car",
+      "id": 14
+    },
+    {
+      "userId": 18,
+      "title": "Gorgeous Plastic Fish",
+      "id": 15
+    },
+    {
+      "userId": 19,
+      "title": "Practical Fresh Mouse",
+      "id": 16
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 14,
+      "url": "https://loremflickr.com/150/150/abstract?lock=46343",
+      "id": 2
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=62464",
       "id": 3
     },
     {
-      "userId": 18,
-      "title": "Awesome Frozen Bacon",
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=68881",
       "id": 4
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=42431",
+      "id": 5
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=14095",
+      "id": 6
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=72074",
+      "id": 7
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=28461",
+      "id": 8
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6468",
+      "id": 9
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=97751",
+      "id": 10
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=44089",
+      "id": 11
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=98675",
+      "id": 12
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87370",
+      "id": 13
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=97329",
+      "id": 14
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7828",
+      "id": 15
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/150/abstract?lock=93097",
+      "id": 16
     }
-  ],
-  "photos": []
+  ]
 }
